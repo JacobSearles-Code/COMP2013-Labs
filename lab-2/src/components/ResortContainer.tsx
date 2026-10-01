@@ -1,4 +1,4 @@
-import ResortCard from "./resortcard.tsx"
+import ResortCard from "./ResortCard.tsx"
 import type { ResortListing } from "../data/data.ts"
 
 interface ResortCardProps {

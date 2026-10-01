@@ -1,6 +1,6 @@
 import './App.css'
 import listings from "../src/data/data.ts"
-import ResortContainer from "./pages/resortcontainer.tsx";
+import ResortContainer from "./components/ResortContainer.tsx";
 
 function App() {
 
